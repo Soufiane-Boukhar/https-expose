@@ -16,4 +16,4 @@ Exposé sur https
 
 ## Réfèrence
 
-[Https]()
+[ArcGIS for Server](https://enterprise.arcgis.com/fr/server/10.4/administer/linux/introduction-to-https.htm)
