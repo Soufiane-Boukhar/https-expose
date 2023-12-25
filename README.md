@@ -6,8 +6,7 @@ Exposé sur https
 
 ## Critére de validation
 
-- Server configuration
-- Commandes
+- Présentation professionnelle
 - Réfèrence
 
 ## Solution
